@@ -8,5 +8,5 @@ You can contact me via <a href = "https://discordapp.com/users/93055093142100383
 
 ### 💡 Projects
 **Open-Source contributions**:
-- [School website](https://github.com/capybaracplusplus/Govno-React-School-website)
+- [School website](https://github.com/capybaracplusplus/Govno-React-School-website) in development*
 
