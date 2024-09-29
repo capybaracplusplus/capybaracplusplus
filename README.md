@@ -1,11 +1,12 @@
-### Hi there 👋
+# Welcome to my Github Profile!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capybaracplusplus&layout=compact)
+### 👋 Hi there
+I am Dima, an applicant and I am studying programming, algorithms and C++, I have just started my journey and want to become an IT specialist.
 
-<p align="center">
- <img src="assets/github-snake.svg" alt="GitHub Snake Game" width="1200"/>
-</p>
-<h3>Contact me:</h3>
-● <a href = "https://discordapp.com/users/930550931421003836/" >Discord</a>
-<br/>
-● <a href = "https://t.me/Capybaracpp" >Telegram</a>
+<h3>📫 Contact Me on Social Media:</h3>
+You can contact me via <a href = "https://discordapp.com/users/930550931421003836/" >Discord</a> or <a href = "https://t.me/Capybaracpp" >Telegram</a>.
+
+### 💡 Projects
+**Open-Source contributions**:
+- [School website](https://github.com/capybaracplusplus/Govno-React-School-website)
+
