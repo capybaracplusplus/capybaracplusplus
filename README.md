@@ -8,6 +8,5 @@ You can contact me via <a href = "https://discordapp.com/users/93055093142100383
 
 ### 💡 Projects
 **Open-Source contributions**:
-- [School website](https://github.com/capybaracplusplus/Govno-React-School-website) —  project currently on hold.
-**Personal Projects**:
 - [DrogonAuth](https://github.com/capybaracplusplus/DrogonAuth) —  a basic authentication and authorization system using JWT on the Drogon framework.
+- [School website](https://github.com/capybaracplusplus/Govno-React-School-website) —  project currently on hold.
