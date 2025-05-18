@@ -10,4 +10,4 @@ You can contact me via <a href = "https://discordapp.com/users/93055093142100383
 **Open-Source contributions**:
 - [DrogonAuth](https://github.com/capybaracplusplus/DrogonAuth) —  a basic authentication and authorization system using JWT on the Drogon framework.
 - [School website](https://github.com/capybaracplusplus/Govno-React-School-website) —  project currently on hold.
-- [Tic Tac Toe](https://github.com/capybaracplusplus/Tic-tac-toe_Boost) —  backend server for the game tic-tac-toe, implementation on Boost asio, Redis-plus-plus.
+- [Tic-tac-toe](https://github.com/capybaracplusplus/Tic-tac-toe_Boost) —  backend server for the game tic-tac-toe, implementation on Boost asio, Redis-plus-plus.
