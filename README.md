@@ -1,7 +1,9 @@
-# Welcome to my Github Profile!
+# Hi, I'm Dmitry
 
-### 👋 Hi there
-I am Dima, a student and I am studying programming, algorithms and C++. I have just started my journey and want to become an IT specialist.
+### About me
 
-<h3>📫 Contact Me on Social Media:</h3>
-You can contact me via <a href = "https://discordapp.com/users/930550931421003836/" >Discord</a> or <a href = "https://t.me/Capybaracpp" >Telegram</a>.
+I'm a Software Engineering student at RTU MIREA. I mostly work on backend projects in C++, building things I find interesting.
+
+### Get in touch
+
+Feel free to reach out on [Discord](https://discordapp.com/users/930550931421003836/) or [Telegram](https://t.me/Capybaracpp).
